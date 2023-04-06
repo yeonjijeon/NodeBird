@@ -1,0 +1,19 @@
+{
+  "name": "react-nodebird-front",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeonjijeon/NodeBird.git"
+  },
+  "author": "yeonji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeonjijeon/NodeBird/issues"
+  },
+  "homepage": "https://github.com/yeonjijeon/NodeBird#readme"
+}
